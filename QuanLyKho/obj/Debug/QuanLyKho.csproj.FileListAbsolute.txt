@@ -1,0 +1,13 @@
+E:\ChuyenNganh\NhapMonCNPM\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe.config
+E:\ChuyenNganh\NhapMonCNPM\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.exe
+E:\ChuyenNganh\NhapMonCNPM\QuanLyKho\QuanLyKho\bin\Debug\QuanLyKho.pdb
+E:\ChuyenNganh\NhapMonCNPM\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csprojResolveAssemblyReference.cache
+E:\ChuyenNganh\NhapMonCNPM\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.Properties.Resources.resources
+E:\ChuyenNganh\NhapMonCNPM\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.csproj.GenerateResource.Cache
+E:\ChuyenNganh\NhapMonCNPM\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.exe
+E:\ChuyenNganh\NhapMonCNPM\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.pdb
+E:\ChuyenNganh\NhapMonCNPM\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.FormCapTaiKhoan.resources
+E:\ChuyenNganh\NhapMonCNPM\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.FormDangNhap.resources
+E:\ChuyenNganh\NhapMonCNPM\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.FormDoiMatKhau.resources
+E:\ChuyenNganh\NhapMonCNPM\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.FormKhoaTaiKhoan.resources
+E:\ChuyenNganh\NhapMonCNPM\QuanLyKho\QuanLyKho\obj\Debug\QuanLyKho.FormTrangChu.resources
